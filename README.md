@@ -8,7 +8,7 @@ I am a goal oriented developer interested in blockchain, the web and long distan
 - 👔 15 months of professional experience over four coop internships
 - ✉ Reach me at victorcheeney@gmail.com
 
-## 🛠 Tech
+## 🛠 Tech I Use
 
 Nowadays, I write **TypeScript** code in **NextJS** / **Remix** applications that I style with **MUI**. I write smart contracts in **Solidity** using the **Hardhat** blockchain development framework. My editor of choice is **VS Code** and I use **Excalidraw** to create designs with a hand written feel. Whenever I can, I host my apps on **Vercel**. I use **Notion** to manage my side-projects and most of my life.
 
@@ -269,6 +269,10 @@ Also, I **git** everything.
         </tr>
       </table>
     </details>
+
+## 👨‍💻 Side Projects
+
+Take a look at my pinned repos! 🙃
 
 ## 🚴‍♂️ Hobby
 
