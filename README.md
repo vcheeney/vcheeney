@@ -15,8 +15,7 @@ Nowadays, I write **TypeScript** code in **NextJS** / **Remix** applications tha
 Also, I **git** everything.
 
 <details>
-      <summary>  <b>Complete list of technologies I've used for work/side-projects</b></summary>
-      <p>Please reach out for details about a specefic stack</p>
+      <summary><b>Complete list of technologies I've used for work/side-projects</b> (react out for specifics)</summary>
       <table>
         <tr>
           <th>Languages</th>
