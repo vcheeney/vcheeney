@@ -271,8 +271,10 @@ Also, I **git** everything.
 
 ## 👨‍💻 Side Projects
 
-Take a look at my pinned repos! 🙃
+Take a look at my pinned repos!
 
 ## 🚴‍♂️ Hobby
 
-Besides coding, I swim 🏊‍♂️ bike 🚴‍♂️ run 🏃‍♂️. Currently trainning for my first **IRONMAN** 🏁 in Mont-Tremblant, August 2022.
+Besides coding, I swim, bike & run.
+
+Currently trainning for my first **IRONMAN** in Mont-Tremblant, August 2022.
