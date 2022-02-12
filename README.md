@@ -6,7 +6,7 @@ I am a goal oriented developer interested in blockchain, the web and long distan
 - 👯 Looking to collaborate on interesting project ideas
 - 🎓 Computer Science Degree at Université de Sherbrooke
 - 👔 15 months of professional experience over four coop internships
-- ✉ Reach me at victorcheeney@gmail.com
+- ✉ Reach me at contact@victorc.dev
 
 ## 🛠 Tech I Use
 
