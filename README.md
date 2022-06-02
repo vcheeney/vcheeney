@@ -1,4 +1,4 @@
-# <img src="wave.gif" width="28px"> Hi there! I'm Victor.
+# <img src="wave.gif" width="28px" height="28px"> Hi there! I'm Victor.
 
 I am a goal oriented developer interested in blockchain, the web and long distance triathlon.
 
