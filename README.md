@@ -16,4 +16,4 @@ Take a look at my pinned repos!
 
 Besides coding, I swim, bike & run.
 
-Currently training for my first **IRONMAN** in Mont-Tremblant, August 2022.
+Currently training for my next **IRONMAN** in Mont-Tremblant, August 2023.
