@@ -16,4 +16,4 @@ Take a look at my pinned repos!
 
 Besides coding, I swim, bike & run.
 
-Currently training for my next **IRONMAN** in Mont-Tremblant, August 2023.
+Currently training for my next long distance triathlon, July 2024.
